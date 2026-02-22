@@ -247,3 +247,5 @@ tag-mapping.json
 
 # Claude files
 /.claude/
+
+.opencode/logs/

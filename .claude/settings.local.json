@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:opencode.ai)",
+      "WebFetch(domain:blog.devgenius.io)",
+      "Bash(gh:*)"
+    ]
+  }
+}
